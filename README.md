@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Ingeniero en Aseguramiento de la Calidad de Software (QA) enfocado en transformar requerimientos complejos en software robusto y libre de errores[cite: 1, 3]. Cuento con un trasfondo lógico y analítico enfocado en la mejora de procesos, el seguimiento de datos y la resolución de problemas técnicos[cite: 1, 3]. Especializado en la automatización de flujos de interfaz de usuario, pruebas de servicios backend y validación de bases de datos bajo metodologías ágiles[cite: 1, 2, 3].
+Ingeniero en Aseguramiento de la Calidad de Software (QA) enfocado en transformar requerimientos complejos en software robusto y libre de errores. Cuento con un trasfondo lógico y analítico enfocado en la mejora de procesos, el seguimiento de datos y la resolución de problemas técnicos. Especializado en la automatización de flujos de interfaz de usuario, pruebas de servicios backend y validación de bases de datos bajo metodologías ágiles.
 
 ---
 
@@ -47,19 +47,19 @@ Ingeniero en Aseguramiento de la Calidad de Software (QA) enfocado en transforma
 
 ## 🎓 Formación y Certificaciones
 
-- **QA Engineer Bootcamp** | *TripleTen* (Graduado: Junio 2026) 🎓[cite: 2]
-  - *ID de Credencial:* 202601QAES0003138[cite: 2]
-  - *Enfoque:* Diseño de pruebas, aseguramiento web/móvil, pruebas de API, bases de datos SQL y automatización robusta con Python y Selenium WebDriver[cite: 2].
-- **Experto en Sistemas Digitales** | *CEICO TULA*[cite: 1, 3]
+- **QA Engineer Bootcamp** | *TripleTen* (Graduado: Junio 2026) 🎓
+  - *ID de Credencial:* 202601QAES0003138
+  - *Enfoque:* Diseño de pruebas, aseguramiento web/móvil, pruebas de API, bases de datos SQL y automatización robusta con Python y Selenium WebDriver.
+- **Experto en Sistemas Digitales** | *CEICO TULA*
 
 ---
 
 ## 📊 Proyectos Destacados (Explora mis repositorios)
 
-1. **[Framework de Automatización Web con Python](sube_aqui_el_enlace_de_tu_repo)**: Implementación de scripts de extremo a extremo utilizando Selenium WebDriver y Pytest para la validación de regresión y flujos críticos de UI[cite: 2, 3].
-2. **[Pruebas de API y Consultas Base de Datos](sube_aqui_el_enlace_de_tu_repo)**: Colecciones de Postman organizadas para pruebas funcionales de endpoints junto con scripts SQL para validación de persistencia backend[cite: 1, 2, 3].
+1. **[Framework de Automatización Web con Python](sube_aqui_el_enlace_de_tu_repo)**: Implementación de scripts de extremo a extremo utilizando Selenium WebDriver y Pytest para la validación de regresión y flujos críticos de UI.
+2. **[Pruebas de API y Consultas Base de Datos](sube_aqui_el_enlace_de_tu_repo)**: Colecciones de Postman organizadas para pruebas funcionales de endpoints junto con scripts SQL para validación de persistencia backend.
 
 ---
 
-📈 *Buscando mi próxima oportunidad laboral como QA Engineer en entornos dinámicos y ágiles. ¡Conectemos!*[cite: 1, 3]
+📈 *Buscando mi próxima oportunidad laboral como QA Engineer en entornos dinámicos y ágiles. ¡Conectemos!*
 
