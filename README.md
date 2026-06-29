@@ -56,7 +56,7 @@ Ingeniero en Aseguramiento de la Calidad de Software (QA) enfocado en transforma
 
 ## 📊 Proyectos Destacados (Explora mis repositorios)
 
-1. **[Framework de Automatización Web con Python](sube_aqui_el_enlace_de_tu_repo)**: Implementación de scripts de extremo a extremo utilizando Selenium WebDriver y Pytest para la validación de regresión y flujos críticos de UI.
+1. **[Framework de Automatización Web con Python](https://github.com/Cristian-GV/qa-project-Urban-Routes-es)**: Implementación de scripts de extremo a extremo utilizando Selenium WebDriver y Pytest para la validación de regresión y flujos críticos de UI.
 2. **[Pruebas de API y Consultas Base de Datos](sube_aqui_el_enlace_de_tu_repo)**: Colecciones de Postman organizadas para pruebas funcionales de endpoints junto con scripts SQL para validación de persistencia backend.
 
 ---
