@@ -1,65 +1,38 @@
-# ¡Hola! Soy Cristian Omar Galdames 👋 QA Engineer
+# ¡Hola! Soy Cristian Omar Galdames 👋
 
-<p align="left">
-  <a href="https://bit.ly/4lkHssI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:Cristiango84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+Soy **QA Manual Engineer** graduado de **TripleTen**. Cuento con una sólida formación en el ciclo de vida completo de las pruebas de software, destacando por un enfoque analítico, detallista y orientado a la resolución de problemas para asegurar la estabilidad del producto antes de cada lanzamiento.
 
-Ingeniero en Aseguramiento de la Calidad de Software (QA) enfocado en transformar requerimientos complejos en software robusto y libre de errores. Cuento con un trasfondo lógico y analítico enfocado en la mejora de procesos, el seguimiento de datos y la resolución de problemas técnicos. Especializado en la automatización de flujos de interfaz de usuario, pruebas de servicios backend y validación de bases de datos bajo metodologías ágiles.
+Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, validación de APIs del lado del backend y persistencia de datos.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 🛠️ Competencias Técnicas
 
-### 🤖 Automatización y Desarrollo
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### 🔍 Pruebas Manuales, APIs y Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/API_Testing-0052CC?style=flat-square" alt="API Testing">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Test_Cases_&_Execution-4CAF50?style=flat-square" alt="Test Cases">
-  <img src="https://img.shields.io/badge/Smoke_&_Regression-FFC107?style=flat-square" alt="Smoke & Regression">
-</p>
-
-### ⚙️ Gestión y Control de Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Scrum-002F6C?style=flat-square" alt="Scrum">
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Trello">
-</p>
+*   **Pruebas Manuales:** Diseño de Casos de Prueba (Test Cases), Listas de Control (Checklists), Pruebas de Caja Negra, Pruebas de Humo (Smoke Testing), Pruebas de Regresión, Pruebas Web y Móviles.
+*   **APIs y Datos:** Pruebas de API con Postman (Validación de métodos HTTP, códigos de estado y respuestas), Consultas SQL para verificación y persistencia en Bases de Datos.
+*   **Gestión y Control:** Jira, Git, GitHub, Metodologías Ágiles (Scrum / Kanban), Línea de Comandos.
+*   **Automatización (Complementaria):** Familiaridad con Python, Selenium WebDriver y Pytest para el soporte de pruebas de regresión.
 
 ---
 
-## 🎓 Formación y Certificaciones
+### 📂 Proyectos Destacados en QA
 
-- **QA Engineer Bootcamp** | *TripleTen* (Graduado: Junio 2026) 🎓
-  - *ID de Credencial:* 202601QAES0003138
-  - *Enfoque:* Diseño de pruebas, aseguramiento web/móvil, pruebas de API, bases de datos SQL y automatización robusta con Python y Selenium WebDriver.
-- **Experto en Sistemas Digitales** | *CEICO TULA*
+#### 🎯 [Diseño de Pruebas e Ingeniería de Calidad: API y Datos]
+*   **Descripción:** Proyecto enfocado en asegurar la calidad integral de componentes del servidor y bases de datos.
+*   **Habilidades aplicadas:** 
+    *   Validación manual de endpoints, formatos y respuestas del servidor mediante pruebas de API con **Postman**.
+    *   Ejecución de consultas estructuradas en **SQL** para garantizar la integridad, consistencia y persistencia de la información en el backend.
+    *   Estructuración de suites de pruebas funcionales y documentación del ciclo de vida de los defectos en **Jira**.
+
+#### 🏁 [Proyecto Final: Aseguramiento de Calidad Integral en Urban Scooter]
+*   **Descripción:** Simulación de un entorno ágil real realizando análisis de requisitos, pruebas funcionales de extremo a extremo y auditoría de software para aplicaciones web y móviles.
+*   **Habilidades aplicadas:**
+    *   Diseño de mapas mentales, listas de control y casos de prueba robustos para mitigar zonas grises y ambigüedades en los requisitos.
+    *   Reporte minucioso de defectos en **Jira**, incluyendo pasos exactos de reproducción, severidad, resultados actuales y esperados para facilitar el trabajo del equipo de desarrollo.
+    *   Ejecución manual de pruebas de regresión y de interfaz de usuario de extremo a extremo.
 
 ---
 
-## 📊 Proyectos Destacados (Explora mis repositorios)
-
-1. **[Framework de Automatización Web con Python](https://github.com/Cristian-GV/qa-project-Urban-Routes-es)**: Implementación de scripts de extremo a extremo utilizando Selenium WebDriver y Pytest para la validación de regresión y flujos críticos de UI.
-2. **[Pruebas de API y Consultas Base de Datos](https://github.com/Cristian-GV/api_stand_tests)**: Colecciones de Postman organizadas para pruebas funcionales de endpoints junto con scripts SQL para validación de persistencia backend.
-
----
-
-📈 *Buscando mi próxima oportunidad laboral como QA Engineer en entornos dinámicos y ágiles. ¡Conectemos!*
-
+### 🤝 Conectemos
+*   **LinkedIn:** www.linkedin.com/in/cristian-omar-galdames-781986116
+*   **Email:** Cristiango84@gmail.com
