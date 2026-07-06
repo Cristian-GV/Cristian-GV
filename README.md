@@ -17,20 +17,19 @@ Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, 
 
 ### 📂 Proyectos Destacados en QA
 
-#### 🎯 [Diseño de Pruebas e Ingeniería de Calidad: API y Datos]
+#### 🎯 [Diseño de Pruebas e Ingeniería de Calidad: API y Datos](https://github.com/Cristian-GV/tu-repositorio-api)
 *   **Descripción:** Proyecto enfocado en asegurar la calidad integral de componentes del servidor y bases de datos.
 *   **Habilidades aplicadas:** 
     *   Validación manual de endpoints, formatos y respuestas del servidor mediante pruebas de API con **Postman**.
     *   Ejecución de consultas estructuradas en **SQL** para garantizar la integridad, consistencia y persistencia de la información en el backend.
     *   Estructuración de suites de pruebas funcionales y documentación del ciclo de vida de los defectos en **Jira**.
 
-#### 🏁 [Proyecto Final: Aseguramiento de Calidad Integral en Urban Scooter]
+#### 🏁 [Proyecto Final: Aseguramiento de Calidad Integral en Urban Scooter](https://github.com/Cristian-GV/tu-repositorio-proyecto-final)
 *   **Descripción:** Simulación de un entorno ágil real realizando análisis de requisitos, pruebas funcionales de extremo a extremo y auditoría de software para aplicaciones web y móviles.
 *   **Habilidades aplicadas:**
-    *   Diseño de mapas mentales, listas de control y casos de prueba robustos para mitigar zonas grises y ambigüedades en los requisitos.
+    *   Diseño de mapas mentales, listas de control y casos de prueba robustos para mitigar de raíz las zonas grises y ambigüedades en los requisitos.
     *   Reporte minucioso de defectos en **Jira**, incluyendo pasos exactos de reproducción, severidad, resultados actuales y esperados para facilitar el trabajo del equipo de desarrollo.
     *   Ejecución manual de pruebas de regresión y de interfaz de usuario de extremo a extremo.
-
 ---
 
 ### 🤝 Conectemos
