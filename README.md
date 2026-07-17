@@ -15,7 +15,7 @@ Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, 
 
 ---
 
-### 📂 Proyectos Destacados en QA
+### 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
 
 #### 🎯 [Diseño de Pruebas e Ingeniería de Calidad: API y Datos](https://github.com/Cristian-GV/tu-repositorio-api)
 *   **Descripción:** Proyecto enfocado en asegurar la calidad integral de componentes del servidor y bases de datos.
@@ -23,8 +23,6 @@ Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, 
     *   Validación manual de endpoints, formatos y respuestas del servidor mediante pruebas de API con **Postman**.
     *   Ejecución de consultas estructuradas en **SQL** para garantizar la integridad, consistencia y persistencia de la información en el backend.
     *   Estructuración de suites de pruebas funcionales y documentación del ciclo de vida de los defectos en **Jira**.
-
-### 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
 
 #### 🛠️ API Testing & CRUD Validation Suite — Restful-Booker
 [Ver Repositorio 📁](https://github.com/Cristian-GV/restful-booker-qa-portfolio)
