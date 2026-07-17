@@ -24,7 +24,18 @@ Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, 
     *   Ejecución de consultas estructuradas en **SQL** para garantizar la integridad, consistencia y persistencia de la información en el backend.
     *   Estructuración de suites de pruebas funcionales y documentación del ciclo de vida de los defectos en **Jira**.
 
-#### 🏁 [Proyecto Final: Aseguramiento de Calidad Integral en Urban Scooter](https://github.com/Cristian-GV/tu-repositorio-proyecto-final)
+### 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
+
+#### 🛠️ API Testing & CRUD Validation Suite — Restful-Booker
+[Ver Repositorio 📁](https://github.com/Cristian-GV/restful-booker-qa-portfolio)
+
+Diseño, ejecución y depuración de una suite completa de pruebas funcionales sobre una API Restful simulada de gestión hotelera, enfocada en la validación de seguridad y el ciclo de vida completo de los recursos.
+
+*   **Validación de Ciclo CRUD Completo:** Configuración de peticiones HTTP manuales en Postman utilizando métodos `POST`, `GET`, `PUT` y `DELETE` para verificar la consistencia en la creación, lectura, actualización y eliminación de registros.
+*   **Gestión de Autenticación y Seguridad:** Implementación de flujo de control de acceso mediante tokens dinámicos pasados a través de cabeceras de seguridad (`Authorization` con codificación Base64) y control basado en Cookies (`token=<value>`), identificando y gestionando códigos de estado críticos como `403 Forbidden`.
+*   **Aislamiento y Reporte de Defectos (Bug Hunting):** Aislamiento exhaustivo de un **Bug de Persistencia de Datos** en el backend. Tras recibir un error falso `405 Method Not Allowed` al intentar eliminar un registro modificado (`PUT`), se procedió a realizar cruzado de información mediante consultas colectivas `GET`, detectando la falta de consolidación del ID en la base de datos principal y reportando formalmente el fallo de sincronización.
+*   
+#### 🏁 [Aseguramiento de Calidad Integral en Urban Scooter](https://github.com/Cristian-GV/tu-repositorio-proyecto-final)
 *   **Descripción:** Simulación de un entorno ágil real realizando análisis de requisitos, pruebas funcionales de extremo a extremo y auditoría de software para aplicaciones web y móviles.
 *   **Habilidades aplicadas:**
     *   Diseño de mapas mentales, listas de control y casos de prueba robustos para mitigar de raíz las zonas grises y ambigüedades en los requisitos.
