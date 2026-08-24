@@ -21,7 +21,7 @@ QA Engineer con un enfoque meticuloso en el aseguramiento de la calidad de softw
 
 ## 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
 
-### 1. [API Testing & CRUD Validation Suite — Restful-Booker](https://github.com/Cristian-GV)
+### 1. [API Testing & CRUD Validation Suite — Restful-Booker](https://github.com/Cristian-GV/api-automation-restful-booker)
 * **Descripción:** Diseñé y ejecuté una suite de pruebas funcionales y de integración sobre una API de gestión hotelera para validar la seguridad y el ciclo de vida completo de los recursos backend.
 * **Habilidades Aplicadas:** 
   * Validación de flujos CRUD completos (POST, GET, PUT, DELETE) e interpretación de códigos de estado HTTP (aislamiento de fallos tipo `405 Method Not Allowed`).
