@@ -1,46 +1,55 @@
 # ¡Hola! Soy Cristian Omar Galdames 👋
+### QA Engineer Junior | Pruebas Manuales, APIs & Automatización
 
-Soy **QA Manual Engineer** graduado de **TripleTen**. Cuento con una sólida formación en el ciclo de vida completo de las pruebas de software, destacando por un enfoque analítico, detallista y orientado a la resolución de problemas para asegurar la estabilidad del producto antes de cada lanzamiento.
+QA Engineer con un enfoque meticuloso en el aseguramiento de la calidad de software. Experiencia en el diseño exhaustivo de casos de prueba, validación de APIs, pruebas de regresión, automatización web con Python y Selenium, e ingeniería de calidad de datos mediante consultas SQL.
 
-Especializado en el diseño exhaustivo de casos de prueba, pruebas funcionales, validación de APIs del lado del backend y persistencia de datos.
-
----
-
-### 🛠️ Competencias Técnicas
-
-*   **Pruebas Manuales:** Diseño de Casos de Prueba (Test Cases), Listas de Control (Checklists), Pruebas de Caja Negra, Pruebas de Humo (Smoke Testing), Pruebas de Regresión, Pruebas Web y Móviles.
-*   **APIs y Datos:** Pruebas de API con Postman (Validación de métodos HTTP, códigos de estado y respuestas), Consultas SQL para verificación y persistencia en Bases de Datos.
-*   **Gestión y Control:** Jira, Git, GitHub, Metodologías Ágiles (Scrum / Kanban), Línea de Comandos.
-*   **Automatización (Complementaria):** Familiaridad con Python, Selenium WebDriver y Pytest para el soporte de pruebas de regresión.
+📍 **Ubicación:** Hidalgo, México  
+📧 **Email:** Cristiango84@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/cristian-omar-galdames](https://www.linkedin.com/in/cristian-omar-galdames-781986116/)  
+🌐 **GitHub:** [github.com/Cristian-GV](https://github.com/Cristian-GV)
 
 ---
 
-### 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
+## 🛠️ Habilidades y Tecnologías
 
-#### 🎯 [Diseño de Pruebas e Ingeniería de Calidad: API y Datos](https://github.com/Cristian-GV/tu-repositorio-api)
-*   **Descripción:** Proyecto enfocado en asegurar la calidad integral de componentes del servidor y bases de datos.
-*   **Habilidades aplicadas:** 
-    *   Validación manual de endpoints, formatos y respuestas del servidor mediante pruebas de API con **Postman**.
-    *   Ejecución de consultas estructuradas en **SQL** para garantizar la integridad, consistencia y persistencia de la información en el backend.
-    *   Estructuración de suites de pruebas funcionales y documentación del ciclo de vida de los defectos en **Jira**.
+- **Core Testing:** Pruebas Manuales, Funcionales, Caja Negra, Regresión, Smoke Testing, Diseño de Casos de Prueba (Test Cases), Listas de Control (Checklists), Reporte y Seguimiento de Bugs.
+- **Pruebas de API y Datos:** Postman (Validación de endpoints, variables de entorno, colecciones, código de respuesta y tokens de autenticación), Consultas SQL para verificación de bases de datos.
+- **Automatización:** Python, Selenium WebDriver, Pytest, manejo de localizadores (XPath y selectores CSS) para pruebas web y scripts de regresión.
+- **Gestión y Control:** Jira, Trello, TestRail, Git, GitHub, Metodología Ágil (Scrum / Kanban).
 
-#### 🛠️ API Testing & CRUD Validation Suite — Restful-Booker
-[Ver Repositorio 📁](https://github.com/Cristian-GV/restful-booker-qa-portfolio)
-
-Diseño, ejecución y depuración de una suite completa de pruebas funcionales sobre una API Restful simulada de gestión hotelera, enfocada en la validación de seguridad y el ciclo de vida completo de los recursos.
-
-*   **Validación de Ciclo CRUD Completo:** Configuración de peticiones HTTP manuales en Postman utilizando métodos `POST`, `GET`, `PUT` y `DELETE` para verificar la consistencia en la creación, lectura, actualización y eliminación de registros.
-*   **Gestión de Autenticación y Seguridad:** Implementación de flujo de control de acceso mediante tokens dinámicos pasados a través de cabeceras de seguridad (`Authorization` con codificación Base64) y control basado en Cookies (`token=<value>`), identificando y gestionando códigos de estado críticos como `403 Forbidden`.
-*   **Aislamiento y Reporte de Defectos (Bug Hunting):** Aislamiento exhaustivo de un **Bug de Persistencia de Datos** en el backend. Tras recibir un error falso `405 Method Not Allowed` al intentar eliminar un registro modificado (`PUT`), se procedió a realizar cruzado de información mediante consultas colectivas `GET`, detectando la falta de consolidación del ID en la base de datos principal y reportando formalmente el fallo de sincronización.
-*   
-#### 🏁 [Aseguramiento de Calidad Integral en Urban Scooter](https://github.com/Cristian-GV/tu-repositorio-proyecto-final)
-*   **Descripción:** Simulación de un entorno ágil real realizando análisis de requisitos, pruebas funcionales de extremo a extremo y auditoría de software para aplicaciones web y móviles.
-*   **Habilidades aplicadas:**
-    *   Diseño de mapas mentales, listas de control y casos de prueba robustos para mitigar de raíz las zonas grises y ambigüedades en los requisitos.
-    *   Reporte minucioso de defectos en **Jira**, incluyendo pasos exactos de reproducción, severidad, resultados actuales y esperados para facilitar el trabajo del equipo de desarrollo.
-    *   Ejecución manual de pruebas de regresión y de interfaz de usuario de extremo a extremo.
 ---
 
-### 🤝 Conectemos
-*   **LinkedIn:** www.linkedin.com/in/cristian-omar-galdames-781986116
-*   **Email:** Cristiango84@gmail.com
+## 🚀 Proyectos Destacados en Aseguramiento de la Calidad (QA)
+
+### 1. [API Testing & CRUD Validation Suite — Restful-Booker](https://github.com/Cristian-GV)
+* **Descripción:** Diseñé y ejecuté una suite de pruebas funcionales y de integración sobre una API de gestión hotelera para validar la seguridad y el ciclo de vida completo de los recursos backend.
+* **Habilidades Aplicadas:** 
+  * Validación de flujos CRUD completos (POST, GET, PUT, DELETE) e interpretación de códigos de estado HTTP (aislamiento de fallos tipo `405 Method Not Allowed`).
+  * Implementación de control de accesos mediante tokens dinámicos codificados en Base64 y cookies de sesión.
+  * Uso avanzado de colecciones, pruebas automatizadas en scripts de Postman y variables de entorno.
+* **Tecnologías:** Postman, JSON, Git, GitHub.
+
+---
+
+### 2. [Framework de Automatización de Pruebas Web E2E (TripleTen)](https://github.com/Cristian-GV)
+* **Descripción:** Desarrollé un framework de automatización de extremo a extremo (E2E) enfocado en validar los flujos críticos de usuario y optimizar los tiempos de ejecución durante las pruebas de regresión web.
+* **Habilidades Aplicadas:**
+  * Creación y estructuración de scripts de prueba automatizados con aserciones robustas mediante Pytest.
+  * Identificación precisa de elementos de la interfaz de usuario mediante localizadores avanzados (XPath y selectores CSS).
+  * Inspección de elementos y depuración de errores usando las herramientas para desarrolladores del navegador (DevTools).
+* **Tecnologías:** Python, Selenium WebDriver, Pytest, Git, GitHub.
+
+---
+
+### 3. [Diseño de Pruebas e Ingeniería de Calidad de Datos (TripleTen)](https://github.com/Cristian-GV)
+* **Descripción:** Estructuré suites completas de pruebas manuales y validación de datos backend para aplicaciones web y móviles, garantizando la consistencia del sistema y la correcta trazabilidad de errores.
+* **Habilidades Aplicadas:**
+  * Diseño detallado de escenarios, casos de prueba y reportes de incidentes gestionados en Jira.
+  * Construcción y ejecución de consultas SQL complejas para verificar la integridad, consistencia y persistencia de datos en el servidor.
+  * Aplicación de técnicas de diseño de pruebas de caja negra (partición de equivalencia y análisis de valores límite).
+* **Tecnologías:** Jira, SQL, PostgreSQL, Trello.
+
+---
+
+📫 **¿Te gustaría colaborar o saber más sobre mis proyectos?**  
+¡Siéntete libre de contactarme por [LinkedIn](https://www.linkedin.com/in/cristian-omar-galdames-781986116/) o enviarme un correo a Cristiango84@gmail.com!
